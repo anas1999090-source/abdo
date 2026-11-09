@@ -1,0 +1,6 @@
+{
+  "name": "Vitaker Bio - باك تساقط الشعر المتكامل",
+  "description": "المتجر الرسمي لباك فيتاكر الطبيعي لعلاج تساقط الشعر، إنبات الفراغات والعناية العميقة مع خدمة الدفع عند الاستلام والطلب عبر الواتساب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
